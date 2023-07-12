@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 
 - 💬 Ask me about: HTML, CSS, JAVASCRIPT, PYTHON, A.I, WEB DEVELOPMENT.
 - 
-- 📫 How to reach me: swillassey@gmail.com, @bwiil-malloc on Twitter, Instagram and Facebook.
+- 📫 How to reach me: swillassey@gmail.com, @bwiil_malloc on Twitter, Instagram and Facebook.
 - 
 - ⚡ Fun fact: I'm faster than Barry Allen ⚡
 -->
